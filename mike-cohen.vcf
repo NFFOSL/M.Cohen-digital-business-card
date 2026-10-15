@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cohen;Mike;;;
+FN:Mike Cohen
+ORG:National Federation of Fishermen's Organisations
+TITLE:Chief Executive Officer
+TEL;TYPE=WORK,VOICE:+441904635430
+TEL;TYPE=CELL:+447555020843
+EMAIL;TYPE=WORK:mike.cohen@nffo.org.uk
+URL:https://www.nffo.org.uk/
+ADR;TYPE=WORK:;;30 Monkgate;York;;YO31 7PF;United Kingdom
+END:VCARD
